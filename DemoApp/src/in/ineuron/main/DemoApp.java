@@ -11,6 +11,8 @@ public class DemoApp {
 		String name="Aditya";
 		int count=name.toUpperCase().length();
 		System.out.println("The length of the string is ::"+ count);
+		
+		System.out.println("Git Integration is successful");
 
 	}
 
